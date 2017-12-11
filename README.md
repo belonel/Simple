@@ -1,2 +1,2 @@
-# Simple
-Really Simple Python App wuthout errors
+# Hello
+This is just an example of sample code
